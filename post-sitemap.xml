@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/Users/Ulric/LocalSites/empyree/app/ProjectAlexandria.github.io/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://paradista.github.io/ProjectAlexandria.github.io/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/Users/Ulric/LocalSites/empyree/app/ProjectAlexandria.github.io/livres/</loc>
+		<loc>https://paradista.github.io/ProjectAlexandria.github.io/livres/</loc>
 		<lastmod>2023-01-21T10:33:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/Users/Ulric/LocalSites/empyree/app/ProjectAlexandria.github.io/hello-world/</loc>
+		<loc>https://paradista.github.io/ProjectAlexandria.github.io/hello-world/</loc>
 		<lastmod>2022-12-17T18:21:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/Users/Ulric/LocalSites/empyree/app/ProjectAlexandria.github.io/e-et-c-chap-02/</loc>
+		<loc>https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/</loc>
 		<lastmod>2022-12-31T16:08:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/Users/Ulric/LocalSites/empyree/app/ProjectAlexandria.github.io/e-et-c-chap-03/</loc>
+		<loc>https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/</loc>
 		<lastmod>2023-01-01T20:37:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/Users/Ulric/LocalSites/empyree/app/ProjectAlexandria.github.io/e-et-c-chap-04/</loc>
+		<loc>https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/</loc>
 		<lastmod>2023-01-01T20:47:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/Users/Ulric/LocalSites/empyree/app/ProjectAlexandria.github.io/e-et-c-chap-1/</loc>
+		<loc>https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/</loc>
 		<lastmod>2023-01-21T10:33:13+00:00</lastmod>
 	</url>
 </urlset>
