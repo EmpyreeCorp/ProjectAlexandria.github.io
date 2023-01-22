@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Hello world!	</title>
-	<atom:link href="http://localhost/hello-world/feed/?simply_static_page=452" rel="self" type="application/rss+xml" />
-	<link>/https://paradista.github.io/ProjectAlexandria.github.io/hello-world/</link>
+	<atom:link href="http://localhost/hello-world/feed/?simply_static_page=648" rel="self" type="application/rss+xml" />
+	<link>/ProjectAlexandria.github.io/hello-world/</link>
 	<description>Là où les rêves s&#039;écrivent.</description>
 	<lastBuildDate>Sat, 17 Dec 2022 18:21:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : A WordPress Commenter		</title>
-		<link>/https://paradista.github.io/ProjectAlexandria.github.io/hello-world/#comment-1</link>
+		<link>/ProjectAlexandria.github.io/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 17 Dec 2022 18:21:41 +0000</pubDate>
-		<guid isPermaLink="false">/https://paradista.github.io/ProjectAlexandria.github.io/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/ProjectAlexandria.github.io/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

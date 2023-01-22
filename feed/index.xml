@@ -9,8 +9,8 @@
 
 <channel>
 	<title>empyrée</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=364" rel="self" type="application/rss+xml" />
-	<link>/https://paradista.github.io/ProjectAlexandria.github.io/</link>
+	<atom:link href="http://localhost/feed/?simply_static_page=560" rel="self" type="application/rss+xml" />
+	<link>/ProjectAlexandria.github.io/</link>
 	<description>Là où les rêves s&#039;écrivent.</description>
 	<lastBuildDate>Sat, 21 Jan 2023 10:33:13 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>E et C &#8211; Chap 04</title>
-		<link>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/</link>
-					<comments>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/#respond</comments>
+		<link>/ProjectAlexandria.github.io/e-et-c-chap-04/</link>
+					<comments>/ProjectAlexandria.github.io/e-et-c-chap-04/#respond</comments>
 		
 		<dc:creator><![CDATA[antelove]]></dc:creator>
 		<pubDate>Wed, 28 Dec 2022 10:29:55 +0000</pubDate>
 				<category><![CDATA[E et C]]></category>
-		<guid isPermaLink="false">/https://paradista.github.io/ProjectAlexandria.github.io/?p=134</guid>
+		<guid isPermaLink="false">/ProjectAlexandria.github.io/?p=134</guid>
 
 					<description><![CDATA[<p>Chapitre 04 The structural intricacies of flowers is a fascinating project. The photos demonstrate the amazing structure of flowers and how complex are them. Oeuvre: Eve &#38; Célestin Auteur: Le Succès Année: 2022 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Chapitre précédent Chapitre suivant</p>
-<p>L’article <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/">E et C &#8211; Chap 04</a> est apparu en premier sur <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/">empyrée</a>.</p>
+<p>L’article <a rel="nofollow" href="/ProjectAlexandria.github.io/e-et-c-chap-04/">E et C &#8211; Chap 04</a> est apparu en premier sur <a rel="nofollow" href="/ProjectAlexandria.github.io/">empyrée</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="134" class="elementor elementor-134">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-21fa798e elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-stretched elementor-section-height-default" data-id="21fa798e" data-element_type="section" id="uppage" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
@@ -70,7 +70,7 @@
 				</div>
 				<div class="elementor-element elementor-element-27695892 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="27695892" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="/https://paradista.github.io/ProjectAlexandria.github.io/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+			<link rel="stylesheet" href="/ProjectAlexandria.github.io/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
 										<span class="elementor-icon-list-text">Oeuvre: Eve &amp; Célestin </span>
 									</li>
@@ -101,20 +101,20 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-159cf1d1 elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="159cf1d1" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="/https://paradista.github.io/ProjectAlexandria.github.io/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-159cf1d1" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item">E et C – Chap 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item">E et C – Chap 02</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item">E et C – Chap 03</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item">E et C – Chap 04</a></li>
+			<link rel="stylesheet" href="/ProjectAlexandria.github.io/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-159cf1d1" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item">E et C – Chap 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item">E et C – Chap 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item">E et C – Chap 03</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item">E et C – Chap 04</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-159cf1d1" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item" tabindex="-1">E et C – Chap 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item" tabindex="-1">E et C – Chap 02</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item" tabindex="-1">E et C – Chap 03</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item" tabindex="-1">E et C – Chap 04</a></li>
+				<ul id="menu-2-159cf1d1" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item" tabindex="-1">E et C – Chap 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item" tabindex="-1">E et C – Chap 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item" tabindex="-1">E et C – Chap 03</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item" tabindex="-1">E et C – Chap 04</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -149,7 +149,7 @@
 								<div class="elementor-element elementor-element-4f571e17 elementor-widget elementor-widget-button" data-id="4f571e17" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+			<a href="/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Chapitre précédent</span>
 		</span>
@@ -185,26 +185,26 @@
 							</div>
 		</section>
 							</div>
-		<p>L’article <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/">E et C &#8211; Chap 04</a> est apparu en premier sur <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/">empyrée</a>.</p>
+		<p>L’article <a rel="nofollow" href="/ProjectAlexandria.github.io/e-et-c-chap-04/">E et C &#8211; Chap 04</a> est apparu en premier sur <a rel="nofollow" href="/ProjectAlexandria.github.io/">empyrée</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/feed/</wfw:commentRss>
+					<wfw:commentRss>/ProjectAlexandria.github.io/e-et-c-chap-04/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>E et C &#8211; Chap 03</title>
-		<link>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/</link>
-					<comments>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/#respond</comments>
+		<link>/ProjectAlexandria.github.io/e-et-c-chap-03/</link>
+					<comments>/ProjectAlexandria.github.io/e-et-c-chap-03/#respond</comments>
 		
 		<dc:creator><![CDATA[antelove]]></dc:creator>
 		<pubDate>Wed, 28 Dec 2022 10:29:18 +0000</pubDate>
 				<category><![CDATA[E et C]]></category>
-		<guid isPermaLink="false">/https://paradista.github.io/ProjectAlexandria.github.io/?p=132</guid>
+		<guid isPermaLink="false">/ProjectAlexandria.github.io/?p=132</guid>
 
 					<description><![CDATA[<p>Chapitre 03 The structural intricacies of flowers is a fascinating project. The photos demonstrate the amazing structure of flowers and how complex are them. Oeuvre: Eve &#38; Célestin Auteur: Le Succès Année: 2022 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Chapitre précédent Chapitre suivant</p>
-<p>L’article <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/">E et C &#8211; Chap 03</a> est apparu en premier sur <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/">empyrée</a>.</p>
+<p>L’article <a rel="nofollow" href="/ProjectAlexandria.github.io/e-et-c-chap-03/">E et C &#8211; Chap 03</a> est apparu en premier sur <a rel="nofollow" href="/ProjectAlexandria.github.io/">empyrée</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="132" class="elementor elementor-132">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-1ab0bb78 elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-stretched elementor-section-height-default" data-id="1ab0bb78" data-element_type="section" id="uppage" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
@@ -272,19 +272,19 @@
 								<div class="elementor-element elementor-element-56e6965b elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="56e6965b" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-56e6965b" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item">E et C – Chap 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item">E et C – Chap 02</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item">E et C – Chap 03</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item">E et C – Chap 04</a></li>
+				<ul id="menu-1-56e6965b" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item">E et C – Chap 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item">E et C – Chap 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item">E et C – Chap 03</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item">E et C – Chap 04</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-56e6965b" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item" tabindex="-1">E et C – Chap 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item" tabindex="-1">E et C – Chap 02</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item" tabindex="-1">E et C – Chap 03</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item" tabindex="-1">E et C – Chap 04</a></li>
+				<ul id="menu-2-56e6965b" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item" tabindex="-1">E et C – Chap 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item" tabindex="-1">E et C – Chap 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item" tabindex="-1">E et C – Chap 03</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item" tabindex="-1">E et C – Chap 04</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -319,7 +319,7 @@
 								<div class="elementor-element elementor-element-5a2f91ba elementor-widget elementor-widget-button" data-id="5a2f91ba" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+			<a href="/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Chapitre précédent</span>
 		</span>
@@ -334,7 +334,7 @@
 								<div class="elementor-element elementor-element-2d5484c9 elementor-align-right elementor-widget elementor-widget-button" data-id="2d5484c9" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+			<a href="/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Chapitre suivant</span>
 		</span>
@@ -355,26 +355,26 @@
 							</div>
 		</section>
 							</div>
-		<p>L’article <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/">E et C &#8211; Chap 03</a> est apparu en premier sur <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/">empyrée</a>.</p>
+		<p>L’article <a rel="nofollow" href="/ProjectAlexandria.github.io/e-et-c-chap-03/">E et C &#8211; Chap 03</a> est apparu en premier sur <a rel="nofollow" href="/ProjectAlexandria.github.io/">empyrée</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/feed/</wfw:commentRss>
+					<wfw:commentRss>/ProjectAlexandria.github.io/e-et-c-chap-03/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>E et C &#8211; Chap 02</title>
-		<link>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/</link>
-					<comments>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/#respond</comments>
+		<link>/ProjectAlexandria.github.io/e-et-c-chap-02/</link>
+					<comments>/ProjectAlexandria.github.io/e-et-c-chap-02/#respond</comments>
 		
 		<dc:creator><![CDATA[antelove]]></dc:creator>
 		<pubDate>Wed, 28 Dec 2022 10:28:26 +0000</pubDate>
 				<category><![CDATA[E et C]]></category>
-		<guid isPermaLink="false">/https://paradista.github.io/ProjectAlexandria.github.io/?p=130</guid>
+		<guid isPermaLink="false">/ProjectAlexandria.github.io/?p=130</guid>
 
 					<description><![CDATA[<p>Chapitre 02 The structural intricacies of flowers is a fascinating project. The photos demonstrate the amazing structure of flowers and how complex are them. Oeuvre: Eve &#38; Célestin Auteur: Le Succès Année: 2022 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Chapitre précédent Chapitre suivant</p>
-<p>L’article <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/">E et C &#8211; Chap 02</a> est apparu en premier sur <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/">empyrée</a>.</p>
+<p>L’article <a rel="nofollow" href="/ProjectAlexandria.github.io/e-et-c-chap-02/">E et C &#8211; Chap 02</a> est apparu en premier sur <a rel="nofollow" href="/ProjectAlexandria.github.io/">empyrée</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="130" class="elementor elementor-130">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-6ff2a12b elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-stretched elementor-section-height-default" data-id="6ff2a12b" data-element_type="section" id="uppage" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
@@ -442,19 +442,19 @@
 								<div class="elementor-element elementor-element-78cbaea3 elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="78cbaea3" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-78cbaea3" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item">E et C – Chap 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item">E et C – Chap 02</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item">E et C – Chap 03</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item">E et C – Chap 04</a></li>
+				<ul id="menu-1-78cbaea3" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item">E et C – Chap 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item">E et C – Chap 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item">E et C – Chap 03</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item">E et C – Chap 04</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-78cbaea3" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item" tabindex="-1">E et C – Chap 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item" tabindex="-1">E et C – Chap 02</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item" tabindex="-1">E et C – Chap 03</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item" tabindex="-1">E et C – Chap 04</a></li>
+				<ul id="menu-2-78cbaea3" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item" tabindex="-1">E et C – Chap 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item" tabindex="-1">E et C – Chap 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item" tabindex="-1">E et C – Chap 03</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item" tabindex="-1">E et C – Chap 04</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -489,7 +489,7 @@
 								<div class="elementor-element elementor-element-7c7a810c elementor-widget elementor-widget-button" data-id="7c7a810c" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+			<a href="/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Chapitre précédent</span>
 		</span>
@@ -504,7 +504,7 @@
 								<div class="elementor-element elementor-element-725665b0 elementor-align-right elementor-widget elementor-widget-button" data-id="725665b0" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+			<a href="/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Chapitre suivant</span>
 		</span>
@@ -525,26 +525,26 @@
 							</div>
 		</section>
 							</div>
-		<p>L’article <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/">E et C &#8211; Chap 02</a> est apparu en premier sur <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/">empyrée</a>.</p>
+		<p>L’article <a rel="nofollow" href="/ProjectAlexandria.github.io/e-et-c-chap-02/">E et C &#8211; Chap 02</a> est apparu en premier sur <a rel="nofollow" href="/ProjectAlexandria.github.io/">empyrée</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/feed/</wfw:commentRss>
+					<wfw:commentRss>/ProjectAlexandria.github.io/e-et-c-chap-02/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>E et C &#8211; Chap 01</title>
-		<link>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/</link>
-					<comments>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/#respond</comments>
+		<link>/ProjectAlexandria.github.io/e-et-c-chap-1/</link>
+					<comments>/ProjectAlexandria.github.io/e-et-c-chap-1/#respond</comments>
 		
 		<dc:creator><![CDATA[antelove]]></dc:creator>
 		<pubDate>Sat, 17 Dec 2022 22:14:45 +0000</pubDate>
 				<category><![CDATA[E et C]]></category>
-		<guid isPermaLink="false">/https://paradista.github.io/ProjectAlexandria.github.io/?p=105</guid>
+		<guid isPermaLink="false">/ProjectAlexandria.github.io/?p=105</guid>
 
 					<description><![CDATA[<p>Chapitre 01 The structural intricacies of flowers is a fascinating project. The photos demonstrate the amazing structure of flowers and how complex are them. Oeuvre: Eve &#38; Célestin Auteur: Le Succès Année: 2022 Dans la classe juste avant le début du cours de SVT, tu griffonais comme à ton habitude dans un coin de ton [&#8230;]</p>
-<p>L’article <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/">E et C &#8211; Chap 01</a> est apparu en premier sur <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/">empyrée</a>.</p>
+<p>L’article <a rel="nofollow" href="/ProjectAlexandria.github.io/e-et-c-chap-1/">E et C &#8211; Chap 01</a> est apparu en premier sur <a rel="nofollow" href="/ProjectAlexandria.github.io/">empyrée</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="105" class="elementor elementor-105">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-55789d77 elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-stretched elementor-section-height-default" data-id="55789d77" data-element_type="section" id="uppage" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
@@ -612,19 +612,19 @@
 								<div class="elementor-element elementor-element-2262f00b elementor-widget__width-inherit elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="2262f00b" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;&quot;},&quot;toggle_icon_hover_animation&quot;:&quot;shrink&quot;,&quot;layout&quot;:&quot;vertical&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-text e--animation-grow">
-				<ul id="menu-1-2262f00b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item">E et C – Chap 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item">E et C – Chap 02</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item">E et C – Chap 03</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item">E et C – Chap 04</a></li>
+				<ul id="menu-1-2262f00b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item">E et C – Chap 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item">E et C – Chap 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item">E et C – Chap 03</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item">E et C – Chap 04</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open elementor-animation-shrink eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close elementor-animation-shrink eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-2262f00b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item" tabindex="-1">E et C – Chap 01</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item" tabindex="-1">E et C – Chap 02</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item" tabindex="-1">E et C – Chap 03</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item" tabindex="-1">E et C – Chap 04</a></li>
+				<ul id="menu-2-2262f00b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-266"><a href="/ProjectAlexandria.github.io/e-et-c-chap-1/" class="elementor-item" tabindex="-1">E et C – Chap 01</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-265"><a href="/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-item" tabindex="-1">E et C – Chap 02</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-264"><a href="/ProjectAlexandria.github.io/e-et-c-chap-03/" class="elementor-item" tabindex="-1">E et C – Chap 03</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-263"><a href="/ProjectAlexandria.github.io/e-et-c-chap-04/" class="elementor-item" tabindex="-1">E et C – Chap 04</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -663,7 +663,7 @@
 								<div class="elementor-element elementor-element-461d78d3 elementor-align-right elementor-widget elementor-widget-button" data-id="461d78d3" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+			<a href="/ProjectAlexandria.github.io/e-et-c-chap-02/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Chapitre suivant</span>
 		</span>
@@ -684,33 +684,33 @@
 							</div>
 		</section>
 							</div>
-		<p>L’article <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/">E et C &#8211; Chap 01</a> est apparu en premier sur <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/">empyrée</a>.</p>
+		<p>L’article <a rel="nofollow" href="/ProjectAlexandria.github.io/e-et-c-chap-1/">E et C &#8211; Chap 01</a> est apparu en premier sur <a rel="nofollow" href="/ProjectAlexandria.github.io/">empyrée</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://paradista.github.io/ProjectAlexandria.github.io/e-et-c-chap-1/feed/</wfw:commentRss>
+					<wfw:commentRss>/ProjectAlexandria.github.io/e-et-c-chap-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/https://paradista.github.io/ProjectAlexandria.github.io/hello-world/</link>
-					<comments>/https://paradista.github.io/ProjectAlexandria.github.io/hello-world/#comments</comments>
+		<link>/ProjectAlexandria.github.io/hello-world/</link>
+					<comments>/ProjectAlexandria.github.io/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[antelove]]></dc:creator>
 		<pubDate>Sat, 17 Dec 2022 18:21:41 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://paradista.github.io/ProjectAlexandria.github.io/?p=1</guid>
+		<guid isPermaLink="false">/ProjectAlexandria.github.io/?p=1</guid>
 
 					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>L’article <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/hello-world/">Hello world!</a> est apparu en premier sur <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/">empyrée</a>.</p>
+<p>L’article <a rel="nofollow" href="/ProjectAlexandria.github.io/hello-world/">Hello world!</a> est apparu en premier sur <a rel="nofollow" href="/ProjectAlexandria.github.io/">empyrée</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>L’article <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/hello-world/">Hello world!</a> est apparu en premier sur <a rel="nofollow" href="/https://paradista.github.io/ProjectAlexandria.github.io/">empyrée</a>.</p>
+<p>L’article <a rel="nofollow" href="/ProjectAlexandria.github.io/hello-world/">Hello world!</a> est apparu en premier sur <a rel="nofollow" href="/ProjectAlexandria.github.io/">empyrée</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://paradista.github.io/ProjectAlexandria.github.io/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/ProjectAlexandria.github.io/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
